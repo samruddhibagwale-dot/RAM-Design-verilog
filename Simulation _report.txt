@@ -1,0 +1,7 @@
+Simulation Report – RAM Design
+
+A simple synchronous RAM with read and write operations was designed.
+Data was successfully written to memory and read back correctly
+using the same address.
+
+The RAM design works correctly as per the requirements.
